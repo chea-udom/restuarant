@@ -10,7 +10,7 @@ public class RestuarantApplication {
 		SpringApplication.run(RestuarantApplication.class, args);
 		System.out.print("hello from server");
 		System.out.print("hello from local");
-		System.out.print("hello from github");
+		System.out.print("hello from vs code");
 	}
 
 }
